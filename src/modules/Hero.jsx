@@ -11,7 +11,7 @@ const Hero = () => {
             <Profile
               name="Shyam"
               title="Web developemtn"
-              profilepic="./profile.jpeg"
+              profilepic="./Goutam.jpeg"
             ></Profile>
           </div>
           <div className="col-md-6">
