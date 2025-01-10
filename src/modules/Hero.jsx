@@ -10,12 +10,12 @@ const Hero = () => {
           <div className="col-md-4">
             <Profile
               name="Goutam Patroti"
-              title="Web developemtn"
+              title="Web development"
               profilepic="./Goutam.jpeg"
             ></Profile>
           </div>
           <div className="col-md-6">
-            CEO and Founder of Springevening Private Limited, Bagalkot I am a
+            CEO and Founder of GSP Private Limited, Bagalkot I am a
            
           </div>
         </div>
